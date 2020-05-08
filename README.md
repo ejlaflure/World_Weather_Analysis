@@ -47,3 +47,9 @@ The analysis of the data will be split into three main stages:
     - Find a hotel from the cities’ coordinates using Google’s Maps and Places API, and Search Nearby feature.
     - Store the name of the first hotel in the DataFrame.
     - Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+
+## Challenge Overview
+Jack loves the app. Beta testers love the app. And, with any new product, there are some changes that could take it from a nice app to an awesome app. Your mission, should you choose to accept it, is to implement the feedback from the beta testers, which is listed below.
+- A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling
+- A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time
+- A map that shows the directions for customers’ travel itinerary
